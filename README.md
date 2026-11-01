@@ -128,17 +128,6 @@ java -cp TimedTests VideoMerger
 
 ---
 
-## Project Statistics
-
-| Project | Lines of Code | Complexity | Domain |
-|---------|--------------|------------|---------|
-| Dictionary | ~8,500 | Medium | Data Structures |
-| VideoMerger | ~150 | High | Multimedia |
-| EquationSolver | ~200 | High | Mathematics |
-| AudioTiming | ~100 | Medium | Signal Processing |
-
----
-
 ## Technical Stack
 
 - **Language:** Java 11+
