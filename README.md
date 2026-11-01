@@ -3,7 +3,9 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **A collection of advanced Java applications demonstrating data structures, multimedia processing, and algorithmic problem-solving.**
+**Developed during 8th grade (June-July 2023) as part of advanced computer science self-study**
+
+> A collection of advanced Java applications demonstrating data structures, multimedia processing, and algorithmic problem-solving.
 
 ## Featured Projects
 
@@ -196,8 +198,6 @@ MIT License - See [LICENSE](LICENSE) file for details
 ## Author
 
 **Andrey Vasilyev**
-
-*Developed during 8th grade (June-July 2023) as part of advanced computer science self-study*
 
 ---
 
