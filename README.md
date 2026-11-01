@@ -5,7 +5,7 @@
 
 > **A collection of advanced Java applications demonstrating data structures, multimedia processing, and algorithmic problem-solving.**
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### 1. **Dictionary System** (`Dictionary.java`)
 A comprehensive Spanish-English dictionary implementation featuring:
@@ -23,7 +23,7 @@ A comprehensive Spanish-English dictionary implementation featuring:
 
 ### 2. **Video Processing Suite** (`TimedTests/`)
 
-#### 📹 **VideoMerger** - Advanced Frame Extraction & Processing
+#### **VideoMerger** - Advanced Frame Extraction & Processing
 Integrates with FFmpeg to extract and process video frames with precision.
 
 **Features:**
@@ -37,7 +37,7 @@ Integrates with FFmpeg to extract and process video frames with precision.
 - Computer vision preprocessing
 - Media content analysis
 
-#### 🎵 **AudioTiming** - Synchronization & Analysis
+#### **AudioTiming** - Synchronization & Analysis
 Precise audio timing and synchronization tools for multimedia applications.
 
 **Capabilities:**
@@ -45,7 +45,7 @@ Precise audio timing and synchronization tools for multimedia applications.
 - Timing precision measurement
 - Synchronization algorithms
 
-#### 💡 **AverageLightVideo** - Video Luminance Analysis
+#### **AverageLightVideo** - Video Luminance Analysis
 Analyzes video content for average brightness and light distribution.
 
 **Applications:**
@@ -83,7 +83,7 @@ A sophisticated system solver for linear equations with GUI interface.
 
 ### 4. **Computer System Scanner** (`TimedTests/ScanComputer.java`)
 
-**⚠️ Educational Tool Only**
+**WARNING: Educational Tool Only**
 
 A system exploration tool demonstrating:
 - File system traversal algorithms
@@ -97,7 +97,7 @@ A system exploration tool demonstrating:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -128,7 +128,7 @@ java -cp TimedTests VideoMerger
 
 ---
 
-## 📊 Project Statistics
+## Project Statistics
 
 | Project | Lines of Code | Complexity | Domain |
 |---------|--------------|------------|---------|
@@ -139,7 +139,7 @@ java -cp TimedTests VideoMerger
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Language:** Java 11+
 - **GUI:** Swing Framework
@@ -149,7 +149,7 @@ java -cp TimedTests VideoMerger
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Java/
@@ -167,7 +167,7 @@ Java/
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This repository demonstrates proficiency in:
 
@@ -198,21 +198,21 @@ This repository demonstrates proficiency in:
 
 ---
 
-## ⚖️ License
+## License
 
 MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Andrey Vasilyev**
 
-*Developed between June-July 2023 as part of advanced computer science coursework*
+*Developed during 8th grade (June-July 2023) as part of advanced computer science self-study*
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Migrate to Maven/Gradle build system
 - [ ] Add comprehensive unit tests
@@ -223,7 +223,7 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Video processing tools require FFmpeg installation
 - Some paths are machine-specific and need configuration
@@ -232,4 +232,4 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-**⭐ If you find this repository helpful, please consider starring it!**
+
