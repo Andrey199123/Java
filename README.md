@@ -201,5 +201,3 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-**If you find this repository helpful, please consider starring it!**
-
