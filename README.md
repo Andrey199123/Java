@@ -201,24 +201,5 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-## Future Enhancements
-
-- [ ] Migrate to Maven/Gradle build system
-- [ ] Add comprehensive unit tests
-- [ ] Implement CI/CD pipeline
-- [ ] Add real-time video processing
-- [ ] Expand dictionary to support multiple languages
-- [ ] Create web API for equation solver
-
----
-
-## Notes
-
-- Video processing tools require FFmpeg installation
-- Some paths are machine-specific and need configuration
-- Computer scanning tools are for educational purposes only
-- All projects are standalone and can be compiled individually
-
----
-
+**If you find this repository helpful, please consider starring it!**
 
